@@ -10,7 +10,7 @@ namespace ConsoleAppTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hai");
+            Console.WriteLine("Hai ");
             Console.ReadKey();
         }
     }
